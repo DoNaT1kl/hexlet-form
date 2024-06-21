@@ -10,7 +10,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(/img/background.svg);
+  background-image: url(../img/background.svg);
 }
 
 .big__p {
@@ -52,7 +52,7 @@ body {
 
 
 .modal-content {
-  background-image: url(/img/background_modal.svg);
+  background-image: url(../img/background_modal.svg);
   max-width: 930px;
   max-height: 440px;
 }
