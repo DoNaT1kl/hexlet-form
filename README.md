@@ -1,5 +1,5 @@
 # hexlet-form
-## Задание по ссылке:
+## Задание по ссылке: https://hexlet-ru.notion.site/38fd01d380cb43efa94702b5188cfde4
 ## Запуск:
 git clone https://github.com/DoNaT1kl/hexlet-form.git
 ____
